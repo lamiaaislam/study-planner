@@ -1,6 +1,8 @@
 # Python
 __pycache__/
 *.py[cod]
+
+# Virtual environments
 .venv/
 venv/
 
@@ -12,6 +14,9 @@ venv/
 # Node
 node_modules/
 dist/
+
+# Local database
+data/*.db
 
 # IDE
 .vscode/
